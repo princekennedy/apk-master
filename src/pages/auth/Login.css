@@ -1,0 +1,18 @@
+.company-form{
+    text-align: center; 
+    margin-top: 100px;
+}
+
+
+.form-card{
+    width: 300px;
+}
+
+.block-input{
+    width: 80%;
+    margin-top:20px;
+}
+
+.block-btn{
+    width: 80%;
+}

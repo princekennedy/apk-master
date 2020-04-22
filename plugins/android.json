@@ -1,0 +1,38 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-qr-barcode-scanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.hello"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-add-swift-support": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.example.hello"
+    }
+  }
+}
